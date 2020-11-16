@@ -1,0 +1,17 @@
+This file contains links to some of the references on the topics requested during the class. I'm surely missing a lot of important methods/work on these topics, but the papers below should at least give you a good place to start.
+
+- On causal effects for continuous exposures:
+  * https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssb.12212
+  * https://onlinelibrary.wiley.com/doi/full/10.1002/hec.3189
+  * https://rss.onlinelibrary.wiley.com/doi/10.1111/rssb.12372
+  * https://arxiv.org/abs/2006.01366
+  
+- On violations to the positivity assumption:
+  * https://journals.sagepub.com/doi/10.1177/0962280210386207
+  * https://www.tandfonline.com/doi/abs/10.1080/01621459.2017.1422737
+  
+- On why the bootstrap fails to obtain valid inference for G-comp and IPTW esitmators based on machine learning (warning: farily technical paper):
+  * https://www.jstor.org/stable/4616127
+  
+- On TMLE with survey weights:
+  * https://academic.oup.com/aje/article/180/7/737/150399
